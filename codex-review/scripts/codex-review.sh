@@ -4,7 +4,7 @@
 set -e
 
 # Default values
-MODEL="gpt-5.2-codex"
+MODEL="gpt-5.3-codex"
 REASONING="high"
 REVIEW_TYPE="uncommitted"
 COMMIT_COUNT=1

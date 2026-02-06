@@ -31,7 +31,7 @@ A collection of plugins for Claude Code.
 /codex-review last two commits          # Review last 2 commits
 ```
 
-Default model: `gpt-5.2-codex` with `reasoning effort: high`
+Default model: `gpt-5.3-codex` with `reasoning effort: high`
 
 To use a different model:
 ```
